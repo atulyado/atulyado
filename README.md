@@ -1,27 +1,25 @@
-# 💫 About Me:
-I'm currently studying
+# Atul Yado
 
+Computer Science student at Mahidol University's Faculty of ICT, interested in **cybersecurity, network security, and reliable connected systems**. I learn by building controlled labs, testing what works, and documenting the limits of each result. I am interested in internship opportunities where I can learn from a security or infrastructure team.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/atul yado) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atul_yado) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Atul Yado) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atulyado198@gmail.com) 
+## Selected projects
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=atulyado&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=atulyado&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atulyado&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Project | What it demonstrates |
+| --- | --- |
+| [SQL Injection: Attack, Fix, Verify](https://github.com/atulyado/SQL-Injection-Attack-Fix-Verify) | A local Express/SQLite login lab: reproduce an authentication bypass, replace the unsafe query with a parameterized lookup and bcrypt verification, and run three HTTP regression tests. [Finding report](https://github.com/atulyado/SQL-Injection-Attack-Fix-Verify/blob/main/FINDINGS.md) · [Test evidence](https://github.com/atulyado/SQL-Injection-Attack-Fix-Verify/blob/main/TEST_EVIDENCE.md) |
+| [Packet Sniffer](https://github.com/atulyado/Packet-Sniffer) | Capture and log TCP, UDP, and ICMP packet details with Python and Scapy; flag high-volume traffic for investigation. |
+| [Trustworthy IoT Alerts](https://github.com/atulyado/Trustworthy-IoT-Alerts) | Compare alert rules on synthetic sensor data and demonstrate signed MQTT message buffering and delivery after a local disconnect. |
+| [ACLAutoGuard](https://github.com/neakvigran/ACLAutoGuard) **(team project)** | I helped configure routes and test connectivity in a physical university lab. The team's current software prototype performs local ACL shadow and access-requirement checks; live deployment and validation are future work. |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atulyado&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I also built a [false-alarm-aware audio alert benchmark](https://github.com/atulyado/False-Alarm-Aware-Audio-Alerts) to explore the trade-off between false alerts and missed detections.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Skills and learning
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atulyado&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **Security and networking:** SQL injection labs, packet analysis, TCP/IP, routing, ACL concepts, MQTT, message integrity, and replay detection.
+- **Tools and languages:** Python, Scapy, Wireshark, Burp Suite, Nmap, Linux, Git, JavaScript/Node.js, and SQL.
+- **Training and activities:** Cisco Networking Academy *Introduction to Cybersecurity*; AWS *Cloud Practitioner Essentials* course completion; Thailand Cyber Top Talent 2026 CTF participation.
 
----
-[![](https://visitcount.itsvg.in/api?id=atulyado&icon=0&color=0)](https://visitcount.itsvg.in)
+## Contact
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [LinkedIn](https://www.linkedin.com/in/atul-yado/)
+- [Email](mailto:atulyado198@gmail.com)
